@@ -92,7 +92,6 @@ If you use this code in your research, please cite our paper:
 - [![DOI](https://sandbox.zenodo.org/badge/941298210.svg)](https://handle.stage.datacite.org/10.5072/zenodo.196087)
 
 - **Paper**:
-- 
 @article{rahmani2024labelfree,
   title={Label-Free Detection of Nuclear Membrane Nano-Poration},
   author={Rahmani, Keivan and Sadr, Leah and Sarikhani, Einollah and Naghsh-Nilchi, Hamed and Onwuasoanya, Chichi and Wong, Yu Ching and Wen, Weijia and Jahed, Zeinab},
