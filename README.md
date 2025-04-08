@@ -89,7 +89,7 @@ the orientation-invariant VAE code, is cloned from [https://github.com/jmhb0/o2v
 
 If you use this code in your research, please cite our paper:
 - **Code**:
-- [![DOI](https://sandbox.zenodo.org/badge/941298210.svg)](https://handle.stage.datacite.org/10.5072/zenodo.196087)
+- [![DOI](https://zenodo.org/badge/794308177.svg)](https://doi.org/10.5281/zenodo.14196155)
 
 - **Paper**:
 @article{rahmani2024labelfree,
